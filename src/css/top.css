@@ -7,3 +7,7 @@ body {
   height:400px;                                          /* 縦幅のサイズを指定    */
   background-attachment: fixed;
 }
+
+.clear {
+  color:transparent;
+}
